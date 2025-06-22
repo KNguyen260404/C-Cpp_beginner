@@ -7,7 +7,7 @@
 ![Advanced](https://img.shields.io/badge/Advanced-Ready-orange?style=for-the-badge)
 ![Vietnamese](https://img.shields.io/badge/Language-Vietnamese-red?style=for-the-badge)
 
-*Bộ sưu tập 22 dự án C++ hoàn chỉnh: từ dự án cơ bản đến nâng cao, được thiết kế đặc biệt cho người Việt Nam học lập trình C++* 💻
+*Bộ sưu tập 22 dự án C++ hoàn chỉnh: từ dự án cơ bản đến nâng cao, được thiết kế đặc biệt cho mọi người học lập trình C++* 💻
 
 </div>
 
