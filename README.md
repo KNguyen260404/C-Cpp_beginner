@@ -1,4 +1,4 @@
-# 🚀 10 Dự Án C++ Từ Cơ Bản Đến Nâng Cao
+# 🚀 22 Dự Án C++ Từ Cơ Bản Đến Nâng Cao
 
 <div align="center">
 
@@ -7,7 +7,7 @@
 ![Advanced](https://img.shields.io/badge/Advanced-Ready-orange?style=for-the-badge)
 ![Vietnamese](https://img.shields.io/badge/Language-Vietnamese-red?style=for-the-badge)
 
-*Bộ sưu tập 10 dự án C++ hoàn chỉnh: 7 dự án cơ bản + 3 dự án nâng cao, được thiết kế đặc biệt cho người Việt Nam học lập trình C++* 💻
+*Bộ sưu tập 22 dự án C++ hoàn chỉnh: từ dự án cơ bản đến nâng cao, được thiết kế đặc biệt cho người Việt Nam học lập trình C++* 💻
 
 </div>
 
@@ -15,10 +15,10 @@
 
 ## 📖 Giới Thiệu
 
-Chào mừng bạn đến với bộ sưu tập **10 dự án C++ hoàn chỉnh**! 🎉 
+Chào mừng bạn đến với bộ sưu tập **22 dự án C++ hoàn chỉnh**! 🎉 
 
-**📚 7 Dự án Cơ bản** giúp bạn nắm vững nền tảng  
-**🚀 3 Dự án Nâng cao** để trở thành lập trình viên chuyên nghiệp
+**📚 10 Dự án Cơ bản** giúp bạn nắm vững nền tảng  
+**🚀 12 Dự án Nâng cao** để trở thành lập trình viên chuyên nghiệp
 
 Mỗi dự án được thiết kế cẩn thận để giúp bạn:
 - 🎯 Học từng khái niệm C++ một cách từng bước
@@ -61,7 +61,7 @@ g++ -std=c++17 -o calculator 01_calculator.cpp
 
 ## 🎮 Danh Sách Các Dự Án
 
-### 📚 **PHẦN 1: 7 DỰ ÁN CƠ BẢN**
+### 📚 **PHẦN 1: 10 DỰ ÁN CƠ BẢN**
 
 <table>
 <tr>
@@ -155,7 +155,7 @@ g++ -std=c++17 -o calculator 01_calculator.cpp
 </td>
 </tr>
 <tr>
-<td align="center" colspan="2">
+<td align="center">
 
 ### 7. 📁 File Manager
 **File:** `07_file_manager.cpp`  
@@ -169,27 +169,12 @@ g++ -std=c++17 -o calculator 01_calculator.cpp
 - ✅ Content search algorithms
 
 </td>
-</tr>
-</table>
-
----
-
-### 🚀 **PHẦN 2: 3 DỰ ÁN NÂNG CAO**
-
-<table>
-<tr>
-<td align="center" width="33%">
+<td align="center">
 
 ### 8. 📱 Contact Manager
 **File:** `08_contact_manager.cpp`  
 **Cấp độ:** 🌟🌟🌟🌟 Professional  
 **Thời gian:** ~2-3 giờ
-
-**Tính năng:**
-- 📝 Quản lý danh bạ đầy đủ
-- 🔍 Tìm kiếm thông minh
-- 🎂 Nhắc nhở sinh nhật
-- 📤 Export CSV
 
 **Học được:**
 - ✅ Class & Object Design
@@ -198,18 +183,14 @@ g++ -std=c++17 -o calculator 01_calculator.cpp
 - ✅ Date/Time Handling
 
 </td>
-<td align="center" width="33%">
+</tr>
+<tr>
+<td align="center">
 
 ### 9. 💰 Finance Manager
 **File:** `09_finance_manager.cpp`  
 **Cấp độ:** 🌟🌟🌟🌟 Professional  
 **Thời gian:** ~2-3 giờ
-
-**Tính năng:**
-- 💸 Theo dõi thu chi
-- 📊 Báo cáo thống kê
-- 📈 Phân tích tài chính
-- 🏷️ Phân loại giao dịch
 
 **Học được:**
 - ✅ Map Container
@@ -218,24 +199,277 @@ g++ -std=c++17 -o calculator 01_calculator.cpp
 - ✅ Report Generation
 
 </td>
-<td align="center" width="33%">
+<td align="center">
 
 ### 10. 🎓 Quiz System
 **File:** `10_quiz_system.cpp`  
 **Cấp độ:** 🌟🌟🌟🌟🌟 Expert  
 **Thời gian:** ~3-4 giờ
 
-**Tính năng:**
-- 📚 6 chủ đề, 80+ câu hỏi
-- 🎯 Quiz ngẫu nhiên
-- 🏆 Bảng xếp hạng
-- ➕ Thêm câu hỏi tùy chỉnh
-
 **Học được:**
 - ✅ Advanced OOP
 - ✅ STL Algorithms
 - ✅ Random & Statistics
 - ✅ Complex UI Design
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🚀 **PHẦN 2: 12 DỰ ÁN NÂNG CAO**
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 11. 📚 Library Management System
+**File:** `11_library_management.cpp`  
+**Cấp độ:** 🌟🌟🌟🌟 Professional  
+**Thời gian:** ~3 giờ
+
+**Tính năng:**
+- 📚 Quản lý sách và độc giả
+- 🔍 Tìm kiếm sách theo nhiều tiêu chí
+- 📅 Theo dõi mượn/trả sách
+- 📊 Báo cáo thống kê
+
+**Học được:**
+- ✅ OOP nâng cao
+- ✅ Quản lý dữ liệu phức tạp
+- ✅ Xử lý ngày tháng
+- ✅ Thiết kế hệ thống quản lý
+
+</td>
+<td align="center" width="50%">
+
+### 12. ♟️ Chess Game
+**File:** `12_chess_game.cpp`  
+**Cấp độ:** 🌟🌟🌟🌟🌟 Expert  
+**Thời gian:** ~4-5 giờ
+
+**Tính năng:**
+- ♟️ Bàn cờ và quân cờ đầy đủ
+- 🎮 Giao diện dòng lệnh trực quan
+- ♔ Kiểm tra nước đi hợp lệ
+- 🏆 Phát hiện chiếu tướng
+
+**Học được:**
+- ✅ Game logic phức tạp
+- ✅ 2D array manipulation
+- ✅ Thuật toán kiểm tra nước đi
+- ✅ Pattern design
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+### 13. 🎬 Movie Ticket Booking
+**File:** `13_movie_ticket_booking.cpp`  
+**Cấp độ:** 🌟🌟🌟🌟 Professional  
+**Thời gian:** ~3 giờ
+
+**Tính năng:**
+- 🎬 Quản lý phim và lịch chiếu
+- 💺 Hiển thị và đặt chỗ ngồi
+- 🎟️ Xuất vé và tính tiền
+- 📊 Báo cáo doanh thu
+
+**Học được:**
+- ✅ Quản lý trạng thái hệ thống
+- ✅ Hiển thị dữ liệu ma trận
+- ✅ Xử lý giao dịch
+- ✅ Thiết kế UI tương tác
+
+</td>
+<td align="center">
+
+### 14. 🔐 Password Manager
+**File:** `14_password_manager.cpp`  
+**Cấp độ:** 🌟🌟🌟🌟 Professional  
+**Thời gian:** ~3 giờ
+
+**Tính năng:**
+- 🔐 Lưu trữ mật khẩu an toàn
+- 🔄 Tạo mật khẩu mạnh
+- 🔍 Tìm kiếm và phân loại
+- 🛡️ Mã hóa dữ liệu
+
+**Học được:**
+- ✅ Bảo mật và mã hóa
+- ✅ Xử lý dữ liệu nhạy cảm
+- ✅ Quản lý khóa và mật khẩu
+- ✅ Thiết kế hệ thống bảo mật
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+### 15. 💬 Chat Application
+**File:** `15_chat_application.cpp`  
+**Cấp độ:** 🌟🌟🌟🌟🌟 Expert  
+**Thời gian:** ~4-5 giờ
+
+**Tính năng:**
+- 💬 Chat đa luồng
+- 👥 Nhiều người dùng cùng lúc
+- 📜 Lịch sử tin nhắn
+- 🔔 Thông báo tin nhắn mới
+
+**Học được:**
+- ✅ Multi-threading
+- ✅ Socket programming
+- ✅ Xử lý đồng thời
+- ✅ Network communication
+
+</td>
+<td align="center">
+
+### 16. 🧮 Calculator Simulator
+**File:** `16_calculator_simulator.cpp`  
+**Cấp độ:** 🌟🌟🌟 Advanced  
+**Thời gian:** ~2-3 giờ
+
+**Tính năng:**
+- 🔢 Tính toán khoa học nâng cao
+- 📊 Hỗ trợ đồ thị hàm số
+- 🧮 Xử lý biểu thức phức tạp
+- 📝 Lưu lịch sử tính toán
+
+**Học được:**
+- ✅ Thuật toán phân tích biểu thức
+- ✅ Đệ quy và stack
+- ✅ Tính toán khoa học
+- ✅ Hiển thị đồ thị ASCII
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+### 17. 🍽️ Restaurant Management
+**File:** `17_restaurant_management.cpp`  
+**Cấp độ:** 🌟🌟🌟🌟 Professional  
+**Thời gian:** ~3-4 giờ
+
+**Tính năng:**
+- 🍽️ Quản lý bàn và đặt chỗ
+- 🍕 Menu và đặt món
+- 💰 Tính tiền và thanh toán
+- 📊 Báo cáo doanh thu
+
+**Học được:**
+- ✅ Quản lý trạng thái phức tạp
+- ✅ Xử lý đơn hàng
+- ✅ Báo cáo tài chính
+- ✅ Thiết kế hệ thống nhà hàng
+
+</td>
+<td align="center">
+
+### 18. 📝 Text Analyzer
+**File:** `18_text_analyzer.cpp`  
+**Cấp độ:** 🌟🌟🌟 Advanced  
+**Thời gian:** ~2-3 giờ
+
+**Tính năng:**
+- 📊 Phân tích văn bản chi tiết
+- 🔍 Tìm kiếm và thống kê từ
+- 📈 Đánh giá độ phức tạp
+- 📝 Phân tích ngữ pháp cơ bản
+
+**Học được:**
+- ✅ Xử lý văn bản nâng cao
+- ✅ Thuật toán phân tích
+- ✅ Regular expressions
+- ✅ Thống kê và phân tích dữ liệu
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+### 19. 🐍 Snake Game
+**File:** `19_snake_game.cpp`  
+**Cấp độ:** 🌟🌟🌟 Advanced  
+**Thời gian:** ~2-3 giờ
+
+**Tính năng:**
+- 🐍 Game rắn săn mồi cổ điển
+- 🎮 Điều khiển mượt mà
+- 🏆 Hệ thống điểm và tốc độ
+- 🎯 Nhiều cấp độ khó
+
+**Học được:**
+- ✅ Game loop và animation
+- ✅ Xử lý input thời gian thực
+- ✅ Collision detection
+- ✅ Console graphics
+
+</td>
+<td align="center">
+
+### 20. ☁️ Weather App
+**File:** `20_weather_app.cpp`  
+**Cấp độ:** 🌟🌟🌟🌟 Professional  
+**Thời gian:** ~3 giờ
+
+**Tính năng:**
+- 🌦️ Mô phỏng dự báo thời tiết
+- 🌍 Dữ liệu nhiều thành phố
+- 📊 Biểu đồ và thống kê
+- 📅 Dự báo nhiều ngày
+
+**Học được:**
+- ✅ Mô phỏng dữ liệu thực tế
+- ✅ Thuật toán dự đoán
+- ✅ Data visualization
+- ✅ Quản lý dữ liệu thời tiết
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+### 21. 🖼️ Image Processor
+**File:** `21_image_processor.cpp`  
+**Cấp độ:** 🌟🌟🌟🌟🌟 Expert  
+**Thời gian:** ~4-5 giờ
+
+**Tính năng:**
+- 🖼️ Xử lý ảnh BMP
+- 🎨 Các bộ lọc và hiệu ứng
+- 🔄 Xoay, cắt và thay đổi kích thước
+- 📊 Điều chỉnh độ sáng, tương phản
+
+**Học được:**
+- ✅ Xử lý ảnh cơ bản
+- ✅ File format handling
+- ✅ Thuật toán xử lý ảnh
+- ✅ Binary file manipulation
+
+</td>
+<td align="center">
+
+### 22. 🧩 Sudoku Solver
+**File:** `22_sudoku_solver.cpp`  
+**Cấp độ:** 🌟🌟🌟🌟 Professional  
+**Thời gian:** ~3-4 giờ
+
+**Tính năng:**
+- 🧩 Giải Sudoku tự động
+- 🎮 Tạo câu đố mới
+- 🔍 Kiểm tra tính hợp lệ
+- 💡 Gợi ý từng bước
+
+**Học được:**
+- ✅ Backtracking algorithm
+- ✅ Constraint satisfaction
+- ✅ Thuật toán đệ quy
+- ✅ Game generation
 
 </td>
 </tr>
@@ -248,15 +482,19 @@ g++ -std=c++17 -o calculator 01_calculator.cpp
 | **Chủ đề** | **Dự án cơ bản** | **Dự án nâng cao** | **Mức độ** |
 |------------|-------------------|-------------------|------------|
 | 🔤 **Cơ bản I/O** | 1, 2 | - | Beginner |
-| 🔄 **Vòng lặp & Điều kiện** | 1, 2, 3 | 8, 9, 10 | Beginner |
-| 📚 **Vector & Array** | 3, 5 | 8, 9, 10 | Intermediate |
-| 🧵 **String Processing** | 4 | 8, 10 | Intermediate |
-| 📁 **File I/O** | 3, 6, 7 | 8, 9, 10 | Intermediate |
-| 🏗️ **Struct & OOP cơ bản** | 6 | - | Advanced |
-| 🔍 **Algorithms** | 4, 5, 7 | 10 | Advanced |
-| 🎨 **Class & Object Design** | - | 8, 9, 10 | Professional |
-| 📊 **STL Containers (map, etc)** | - | 9, 10 | Professional |
-| 🧮 **Complex Logic & Math** | - | 9, 10 | Expert |
+| 🔄 **Vòng lặp & Điều kiện** | 1, 2, 3 | 11-22 | Beginner |
+| 📚 **Vector & Array** | 3, 5 | 11, 13, 17, 19 | Intermediate |
+| 🧵 **String Processing** | 4 | 8, 10, 18 | Intermediate |
+| 📁 **File I/O** | 3, 6, 7 | 11, 14, 17, 21 | Intermediate |
+| 🏗️ **Struct & OOP cơ bản** | 6 | 11-22 | Advanced |
+| 🔍 **Algorithms** | 4, 5, 7 | 12, 18, 22 | Advanced |
+| 🎨 **Class & Object Design** | - | 11-22 | Professional |
+| 📊 **STL Containers** | - | 11, 17, 18, 20 | Professional |
+| 🧮 **Complex Logic & Math** | - | 12, 16, 21, 22 | Expert |
+| 🧵 **Multi-threading** | - | 15 | Expert |
+| 🎮 **Game Development** | - | 12, 19 | Advanced |
+| 🔐 **Security & Encryption** | - | 14 | Professional |
+| 🖼️ **Graphics & Visualization** | - | 19, 21 | Advanced |
 
 </div>
 
@@ -268,23 +506,19 @@ g++ -std=c++17 -o calculator 01_calculator.cpp
 - **Tuần 3:** 📊 Array Manager + 🎓 Student Manager + 📁 File Manager
 
 ### 📅 **Giai đoạn 2: Chuyên nghiệp (2-3 tuần)**
-- **Tuần 4-5:** � Contact Manager (OOP nâng cao)
+- **Tuần 4-5:** 📱 Contact Manager (OOP nâng cao)
 - **Tuần 5-6:** 💰 Finance Manager (Data structures phức tạp)
 - **Tuần 6-7:** 🎓 Quiz System (Hệ thống hoàn chỉnh)
 
-### 📅 **Giai đoạn 3: Thành thạo**
-- Tùy chỉnh và mở rộng các dự án
-- Thêm tính năng mới
-- Chuẩn bị portfolio cho tìm việc
-- **Ngày 7:** Review và debug
+### 📅 **Giai đoạn 3: Nâng cao (3-4 tuần)**
+- **Tuần 8-9:** 📚 Library Management + 🎬 Movie Ticket Booking
+- **Tuần 9-10:** 🔐 Password Manager + 🧮 Calculator Simulator
+- **Tuần 10-11:** 🍽️ Restaurant Management + 📝 Text Analyzer
 
-### 📅 Tuần 3: Nâng cao
-- **Ngày 1-4:** 📊 Array Manager - Algorithms
-- **Ngày 5-7:** 🎓 Student Manager - Struct
-
-### 📅 Tuần 4: Thành thạo
-- **Ngày 1-5:** 📁 File Manager - I/O nâng cao
-- **Ngày 6-7:** Customize và mở rộng dự án
+### 📅 **Giai đoạn 4: Chuyên gia (3-4 tuần)**
+- **Tuần 12-13:** ♟️ Chess Game + 🐍 Snake Game
+- **Tuần 13-14:** ☁️ Weather App + 🧩 Sudoku Solver
+- **Tuần 14-15:** 💬 Chat Application + 🖼️ Image Processor
 
 ## 💡 Lời Khuyên Học Tập
 
@@ -292,13 +526,13 @@ g++ -std=c++17 -o calculator 01_calculator.cpp
 
 ### 🎯 **Cho Người Mới Bắt Đầu**
 ```
-"Bắt đầu với 7 dự án cơ bản để nắm vững nền tảng,
-sau đó thử sức với 3 dự án nâng cao để trở thành pro!"
+"Bắt đầu với 10 dự án cơ bản để nắm vững nền tảng,
+sau đó thử sức với các dự án nâng cao để trở thành pro!"
 ```
 
 ### 🚀 **Cho Người Muốn Nâng Cao**
 ```
-"3 dự án nâng cao sẽ giúp bạn hiểu sâu về OOP, 
+"Các dự án nâng cao sẽ giúp bạn hiểu sâu về OOP, 
 data structures và system design - chuẩn bị sẵn sàng cho việc làm!"
 ```
 
@@ -310,7 +544,7 @@ data structures và system design - chuẩn bị sẵn sàng cho việc làm!"
 - 🐛 **Embrace bugs:** Lỗi là cơ hội học hỏi
 - 📝 **Ghi chú:** Note lại những gì học được
 - 🤝 **Tham gia cộng đồng:** Chia sẻ và hỏi đáp
-- 🎯 **Portfolio:** Dùng 3 dự án nâng cao để xin việc!
+- 🎯 **Portfolio:** Dùng các dự án nâng cao để xin việc!
 
 ## 🚨 Xử Lý Lỗi Thường Gặp
 
@@ -359,80 +593,14 @@ if (!(cin >> number)) {
 
 </details>
 
-## 🎯 Thử Thách Nâng Cao
-
-### 🏆 **Sau khi hoàn thành 7 dự án cơ bản:**
-
-<details>
-<summary><strong>📈 Nâng cấp Calculator</strong></summary>
-
-- ➕ Thêm chức năng tính căn bậc hai, lũy thừa
-- 📊 Lưu lịch sử tính toán
-- 🎨 Tạo giao diện đẹp hơn với ASCII art
-- 🔢 Hỗ trợ số thập phân âm
-
-</details>
-
-<details>
-<summary><strong>🎮 Game Nâng Cao</strong></summary>
-
-- 🏆 Thêm bảng xếp hạng high score
-- ⏱️ Giới hạn thời gian đoán
-- 🎚️ Nhiều mức độ khó khác nhau
-- 💡 Gợi ý thông minh (chẵn/lẻ, chia hết cho...)
-
-</details>
-
-<details>
-<summary><strong>🗂️ Todo App Pro</strong></summary>
-
-- 📅 Thêm deadline cho task
-- 🏷️ Phân loại theo tag/category
-- ⭐ Độ ưu tiên (priority)
-- 🔔 Nhắc nhở (reminder)
-
-</details>
-
-### 🚀 **Sau khi hoàn thành 3 dự án nâng cao:**
-
-<details>
-<summary><strong>📱 Contact Manager Pro</strong></summary>
-
-- 📸 Thêm ảnh đại diện cho contact
-- 📞 Lịch sử cuộc gọi
-- 📧 Gửi email trực tiếp
-- ☁️ Sync với cloud storage
-
-</details>
-
-<details>
-<summary><strong>💰 Finance Manager Pro</strong></summary>
-
-- 📊 Biểu đồ trực quan (ASCII charts)
-- 💳 Quản lý nhiều tài khoản
-- 🎯 Đặt mục tiêu tiết kiệm
-- 📈 Dự đoán xu hướng chi tiêu
-
-</details>
-
-<details>
-<summary><strong>🎓 Quiz System Pro</strong></summary>
-
-- 🌐 Import câu hỏi từ web
-- 🎵 Thêm âm thanh và hiệu ứng
-- 👥 Mode multiplayer
-- 📱 Web interface với HTML/CSS
-
-</details>
-
 ## 📊 Statistics
 
 <div align="center">
 
-![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-5000+-blue?style=for-the-badge)
-![Projects](https://img.shields.io/badge/Projects-10-green?style=for-the-badge)
+![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-10000+-blue?style=for-the-badge)
+![Projects](https://img.shields.io/badge/Projects-22-green?style=for-the-badge)
 ![Quiz Questions](https://img.shields.io/badge/Quiz%20Questions-80+-purple?style=for-the-badge)
-![Difficulty](https://img.shields.io/badge/Difficulty-Beginner%20to%20Advanced-orange?style=for-the-badge)
+![Difficulty](https://img.shields.io/badge/Difficulty-Beginner%20to%20Expert-orange?style=for-the-badge)
 ![Language](https://img.shields.io/badge/Language-C++17-red?style=for-the-badge)
 
 </div>
