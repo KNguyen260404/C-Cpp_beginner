@@ -1,4 +1,4 @@
-# 🚀 22 Dự Án C++ Từ Cơ Bản Đến Nâng Cao
+# 🚀 24 Dự Án C++ Từ Cơ Bản Đến Nâng Cao
 
 <div align="center">
 
@@ -7,7 +7,7 @@
 ![Advanced](https://img.shields.io/badge/Advanced-Ready-orange?style=for-the-badge)
 ![Vietnamese](https://img.shields.io/badge/Language-Vietnamese-red?style=for-the-badge)
 
-*Bộ sưu tập 22 dự án C++ hoàn chỉnh: từ dự án cơ bản đến nâng cao, được thiết kế đặc biệt cho mọi người học lập trình C++* 💻
+*Bộ sưu tập 24 dự án C++ hoàn chỉnh: từ dự án cơ bản đến nâng cao, được thiết kế đặc biệt cho mọi người học lập trình C++* 💻
 
 </div>
 
@@ -15,10 +15,10 @@
 
 ## 📖 Giới Thiệu
 
-Chào mừng bạn đến với bộ sưu tập **22 dự án C++ hoàn chỉnh**! 🎉 
+Chào mừng bạn đến với bộ sưu tập **24 dự án C++ hoàn chỉnh**! 🎉 
 
 **📚 10 Dự án Cơ bản** giúp bạn nắm vững nền tảng  
-**🚀 12 Dự án Nâng cao** để trở thành lập trình viên chuyên nghiệp
+**🚀 14 Dự án Nâng cao** để trở thành lập trình viên chuyên nghiệp
 
 Mỗi dự án được thiết kế cẩn thận để giúp bạn:
 - 🎯 Học từng khái niệm C++ một cách từng bước
@@ -218,7 +218,7 @@ g++ -std=c++17 -o calculator 01_calculator.cpp
 
 ---
 
-### 🚀 **PHẦN 2: 12 DỰ ÁN NÂNG CAO**
+### 🚀 **PHẦN 2: 14 DỰ ÁN NÂNG CAO**
 
 <table>
 <tr>
@@ -473,6 +473,48 @@ g++ -std=c++17 -o calculator 01_calculator.cpp
 
 </td>
 </tr>
+<tr>
+<td align="center" width="50%">
+
+### 23. 🧠 Neural Network
+**File:** `23_neural_network.cpp`  
+**Cấp độ:** 🌟🌟🌟🌟🌟 Expert  
+**Thời gian:** ~5-6 giờ
+
+**Tính năng:**
+- 🔢 Mạng neural nhiều lớp
+- 📊 Thuật toán backpropagation
+- 🧪 Ví dụ với bài toán XOR
+- 💾 Lưu và tải mô hình đã huấn luyện
+
+**Học được:**
+- ✅ Toán học nâng cao
+- ✅ Thuật toán AI cơ bản
+- ✅ Vector và ma trận
+- ✅ Tối ưu hóa hiệu suất
+
+</td>
+<td align="center" width="50%">
+
+### 24. 🎮 3D Game Engine
+**File:** `24_3d_game_engine.cpp`  
+**Cấp độ:** 🌟🌟🌟🌟🌟 Expert  
+**Thời gian:** ~6-8 giờ
+
+**Tính năng:**
+- 🎲 Render đồ họa 3D bằng ASCII
+- 🔍 Xử lý vector và ma trận 3D
+- 💡 Hệ thống ánh sáng
+- 🎬 Animation theo thời gian thực
+
+**Học được:**
+- ✅ Toán học 3D
+- ✅ Thuật toán render
+- ✅ Game loop và animation
+- ✅ Thiết kế engine
+
+</td>
+</tr>
 </table>
 
 ## 🧠 Kiến Thức C++ Được Học
@@ -598,7 +640,7 @@ if (!(cin >> number)) {
 <div align="center">
 
 ![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-10000+-blue?style=for-the-badge)
-![Projects](https://img.shields.io/badge/Projects-22-green?style=for-the-badge)
+![Projects](https://img.shields.io/badge/Projects-24-green?style=for-the-badge)
 ![Quiz Questions](https://img.shields.io/badge/Quiz%20Questions-80+-purple?style=for-the-badge)
 ![Difficulty](https://img.shields.io/badge/Difficulty-Beginner%20to%20Expert-orange?style=for-the-badge)
 ![Language](https://img.shields.io/badge/Language-C++17-red?style=for-the-badge)
